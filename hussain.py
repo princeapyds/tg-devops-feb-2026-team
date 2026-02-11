@@ -1,3 +1,4 @@
-a=int(input("Enter first number:"))
-b=int(input("Enter second number:"))
-print(a+b)
+while True:
+    a = int(input("Enter first number: "))
+    b = int(input("Enter second number: "))
+    print(a+b)
