@@ -1,7 +1,8 @@
 a = int(input("Enter first number: "))
 b = int(input("Enter second number: "))
 c = int(input("enter third number:"))
-    print(a+b+c)
+d = int(input("enter fourth number"))
+print(a+b+c-d)
 
 
 # Multiplication table (from 1 to 10) in Python
