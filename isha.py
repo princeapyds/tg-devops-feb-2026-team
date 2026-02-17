@@ -9,4 +9,4 @@ while True:
     else:
         break
 
-print("Total =", sum(numbers))
+print("Total =", sum(numbers))   
